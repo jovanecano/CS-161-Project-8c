@@ -2,7 +2,7 @@
 # GitHub username: jovanecano
 # Date: 05/22/2024
 # Description:
-"""This script defines the Employee class and a function that creates a dictionary of employees from the list of detials"""
+"""This script defines the Employee class and a function called make_employee_dict that creates a dictionary of employees from the list of detials"""
 
 
 class Employee:
